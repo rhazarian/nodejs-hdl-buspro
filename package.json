@@ -1,6 +1,6 @@
 {
   "name": "hdl-buspro",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "license": "MIT",
   "description": "Node.js implementation of HDL Buspro protocol [Fork of smart-bus]",
   "repository": {
